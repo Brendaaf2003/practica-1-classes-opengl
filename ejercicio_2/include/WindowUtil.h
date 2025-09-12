@@ -8,7 +8,7 @@
 
 class WindowUtil {
 private:
-    //Ventana
+    //Ventana de GLFW
     GLFWwindow* window;
 
 public:
