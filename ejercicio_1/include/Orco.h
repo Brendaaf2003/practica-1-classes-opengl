@@ -5,8 +5,8 @@
 
 class Orco : public Monstruo{
 public:
-    Ocro(const std::string& nombre, int fuerza, int agilidad, int inteligencia,char tipo)
-    : nombre(nombre), fuerza(fuerza), agilidad(agilidad), inteligencia(inteligencia), 'O' {} 
+    Orco(const std::string& nombre, int fuerza, int agilidad, int inteligencia)
+    : Monstruo(nombre, fuerza, agilidad, inteligencia, 'O') {}
 
-    std::string getEspecie() const override{return "Ocro"}
+    std::string getEspecie() const override{return "Ocro";}
 }

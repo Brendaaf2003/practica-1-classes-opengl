@@ -1,4 +1,4 @@
-#ifdef HECHICERO_H
+#ifndef HECHICERO_H
 #define HECHICERO_H
 
 #include "Monstruo.h"
@@ -6,7 +6,9 @@
 class Hechicero : public Monstruo{
 public:
     Hechicero(const std::string& nombre, int fuerza, int agilidad, int inteligencia,char tipo)
-    : nombre(nombre), fuerza(fuerza), agilidad(agilidad), inteligencia(inteligencia), 'H' {} 
+    : Monstruo(nombre, fuerza, agilidad, inteligencia, 'H') {} 
 
-    std::string getEspecie() const override{return "Hechicero"}
+    std::string getEspecie() const override{return "Hechicero";}
 }
+
+#endif

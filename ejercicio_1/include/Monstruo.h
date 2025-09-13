@@ -1,4 +1,4 @@
-#ifdef MONSTROU_H
+#ifndef MONSTROU_H
 #define MONSTRUO_H
 
 #include <string>
