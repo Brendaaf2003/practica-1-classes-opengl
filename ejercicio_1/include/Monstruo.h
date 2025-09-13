@@ -1,4 +1,4 @@
-#ifndef MONSTROU_H
+#ifndef MONSTRUO_H
 #define MONSTRUO_H
 
 #include <string>
@@ -7,11 +7,10 @@
 class Monstruo {
 protected:
     std::string nombre;
-    int fueza;
+    int fuerza;
     int agilidad;
     int inteligencia;
     char tipo;
-}
 
 public:
     Monstruo(const std::string& nombre, int fuerza, int agilidad, int inteligencia,char tipo)
@@ -26,5 +25,6 @@ public:
     char getTipo() const{return tipo;}
 
     virtual std::string getEspecie() const = 0;
+};
 
 #endif
