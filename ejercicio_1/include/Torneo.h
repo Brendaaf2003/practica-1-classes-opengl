@@ -10,13 +10,11 @@ class Torneo {
 private:
     std::vector<Monstruo*> participantes;
 public:
-    // Carga los participantes desde torneo.txt
+
     void cargarParticipantes(const std::string& archivo);
-
-    // Ejecuta todas las rondas y guarda en resultados_torneo.txt
     void ejecutar(const std::string& archivoResultados);
+    const std::vector<Monstruo*>& obtenerParticipantes() const;
 
-    // Destructor para liberar memoria
     ~Torneo();
 };
 
