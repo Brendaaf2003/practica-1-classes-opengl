@@ -1,0 +1,49 @@
+--- Octavos de final ---
+Batalla Espiritual
+Grommash (Ocro) vs Alduin (Dragon)Encuentro 1: Alduin gana. 
+Encuentro 2: Alduin gana. 
+Encuentro 3: Alduin gana. 
+
+El ganador de la batalla es: Alduin (Dragon)
+
+Grommash vs Alduin → Gana Alduin
+Batalla de Fuerza
+Ugh (Troll) vs Eldrin (Hechicero)Hubo empateHubo empateEncuentro 3: Ugh gana. 
+
+El ganador de la batalla es: Ugh (Troll)
+
+Ugh vs Eldrin → Gana Ugh
+Batalla de Fuerza
+Skully (Esqueleto) vs Nosferatu (Vampiro)Encuentro 1: Nosferatu gana. 
+Encuentro 2: Skully gana. 
+Encuentro 3: Nosferatu gana. 
+
+El ganador de la batalla es: Nosferatu (Vampiro)
+
+Skully vs Nosferatu → Gana Nosferatu
+
+--- Cuartos de final ---
+Batalla Espiritual
+Alduin (Dragon) vs Ugh (Troll)Encuentro 1: Alduin gana. 
+Encuentro 2: Alduin gana. 
+Encuentro 3: Alduin gana. 
+
+El ganador de la batalla es: Alduin (Dragon)
+
+Alduin vs Ugh → Gana Alduin
+Batalla Espiritual
+Nosferatu (Vampiro) vs Eldrin (Hechicero)Encuentro 1: Nosferatu gana. 
+Hubo empateHubo empate
+El ganador de la batalla es: Nosferatu (Vampiro)
+
+Nosferatu vs Eldrin → Gana Nosferatu
+
+--- Semifinales ---
+Batalla de Ingenio
+Alduin (Dragon) vs Nosferatu (Vampiro)Hubo empateHubo empateEncuentro 3: Alduin gana. 
+
+El ganador de la batalla es: Alduin (Dragon)
+
+Alduin vs Nosferatu → Gana Alduin
+
+Campeón: Alduin
