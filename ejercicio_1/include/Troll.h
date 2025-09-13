@@ -6,9 +6,9 @@
 class Troll : public Monstruo{
 public:
     Troll(const std::string& nombre, int fuerza, int agilidad, int inteligencia,char tipo)
-    : Monstruo(nombre, fuerza, agilidad, inteligencia, 'T') {} 
+    : Monstruo(nombre, fuerza, agilidad, inteligencia, tipo = 'T') {} 
 
     std::string getEspecie() const override{return "Troll";}
-}
+};
 
 #endif
